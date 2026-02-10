@@ -2,6 +2,10 @@
 
 Aplikasi penemuan buku yang indah dan modern yang dibangun dengan **Flutter**. Autumn Library memungkinkan pengguna untuk menjelajahi buku, mengelola bookmark, dan menyesuaikan profil mereka, semuanya dibalut dalam desain hangat bertema musim gugur.
 
+## 👥 Anggota
+- **Vania Larissa Fendy** (2344010)
+- **Maria Laurensia** (2344037)
+
 ## ✨ Fitur
 
 ### 🔐 Autentikasi (Authentication)
@@ -38,7 +42,7 @@ Aplikasi penemuan buku yang indah dan modern yang dibangun dengan **Flutter**. A
 
 1.  **Clone repositori**
     ```bash
-    git clone https://github.com/yourusername/autumn-library.git
+    git clone https://github.com/yourusername/my-library.git
     cd my_library
     ```
 
@@ -79,3 +83,5 @@ lib/
 - **Flutter**: UI Toolkit
 - **http**: Untuk mengambil data buku dari Open Library API.
 - **provider** (atau sejenisnya): Untuk manajemen state (mis., AuthStore).
+
+
